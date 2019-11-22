@@ -5,12 +5,6 @@
 
 ``` bash
 /Users/liufang/openSource/FunnyLiu/rollup
-├── CHANGELOG.md
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── LICENSE-CORE.md
-├── LICENSE.md
-├── README.md
 ├── browser
 |  ├── crypto.ts
 |  ├── fs.ts
@@ -28,20 +22,6 @@
 |  |  ├── timings.ts
 |  |  └── watch.ts
 |  └── sourceMappingUrl.ts
-├── docs
-|  ├── 00-introduction.md
-|  ├── 01-command-line-reference.md
-|  ├── 02-javascript-api.md
-|  ├── 03-es-module-syntax.md
-|  ├── 04-tutorial.md
-|  ├── 05-plugin-development.md
-|  ├── 06-faqs.md
-|  ├── 07-tools.md
-|  ├── 08-troubleshooting.md
-|  └── 999-big-list-of-options.md
-├── markdownlint.json
-├── package-lock.json
-├── package.json
 ├── rollup.config.js
 ├── scripts
 |  ├── load-perf-config.js
@@ -233,16 +213,10 @@
 |     ├── chokidar.ts
 |     ├── fileWatchers.ts
 |     └── index.ts
-├── tsconfig.json
-├── tslint.json
-└── typings
-   ├── declarations.d.ts
-   ├── hash.js.d.ts
-   └── package.json.d.ts
 
-directory: 2316 file: 7132 symboliclink: 2
 
-ignored: directory (3)
+
+
 
 ```
 
